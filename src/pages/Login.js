@@ -22,7 +22,7 @@ const Login = () => {
   return (
     <div className="formContainer">
       <div className="formWrapper">
-        <span className="logo">Lama Chat</span>
+        <span className="logo">Soft Touch</span>
         <span className="title">Login</span>
         <form onSubmit={handleSubmit}>
           <input required type="email" placeholder="email" />
